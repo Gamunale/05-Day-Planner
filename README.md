@@ -4,6 +4,7 @@
 ## Deployed link
 
 Deployed link: https://gamunale.github.io/05-Day-Planner/
+Repository link: https://github.com/Gamunale/05-Day-Planner
 
 
 
