@@ -1,5 +1,12 @@
 # 05-Day-Planner
 
+
+## Deployed link
+
+Deployed link: https://gamunale.github.io/05-Day-Planner/
+
+
+
 ## User Story
 
 - AS AN employee with a busy schedule
